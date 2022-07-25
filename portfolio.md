@@ -1,9 +1,3 @@
-![video](images/output.mp4)
-
-Source: https://prograide.com/pregunta/15530/comment-integrer-une-video-dans-le-fichier-readmemd-de-github
-
-https://youtube.com/shorts/A7V9-iYgXoI?feature=share
-
 Quickly recognizing the serial number of a pipeline is necessary for the smooth running of the construction site. It is useful in many construction phases. Recognition with a camera is a good compromise. The serial number is written directly on the pipe with a "metal writing". However, it is necessary that the writing and the picture taking are done rigorously.
 
 Design without sleeve: '+ SERIAL NUMBER +'.

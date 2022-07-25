@@ -4,7 +4,7 @@ Design without sleeve: '+ SERIAL NUMBER +'.
 
 ## Problematic
 
-![area](images/area_of_interest.jpg)
+![area](images/area_of_interest.webp)
 
 An application is operated from a central database and tablets operated in the field (site).
 
@@ -23,7 +23,7 @@ For that, the reading of the barcodes was used from the tablets, initially, for 
 
 ## Solution
 
-![img_detection](images/IMG_1453.jpg)
+![img_detection](images/IMG_1453.webp)
 
 A model detecting an area of interest on a tube coupled with an OCR solution allows the rapid identification of a tube number. 
 
@@ -31,9 +31,9 @@ This model was trained on YOLOv7 : https://github.com/WongKinYiu/yolov7
 
 ## Training
 
-![training](images/train_batch5.jpg)
+![training](images/train_batch5.webp)
 
 ## Results
 
-![result](images/results.png)
+![result](images/results.webp)
 

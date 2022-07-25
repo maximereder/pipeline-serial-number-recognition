@@ -1,4 +1,5 @@
-![video](images/output.mp4)
+
+https://user-images.githubusercontent.com/43574477/180720471-dd549113-b342-4687-ae1b-ed27f4c8a751.mp4
 
 Source: https://prograide.com/pregunta/15530/comment-integrer-une-video-dans-le-fichier-readmemd-de-github
 

@@ -1,3 +1,5 @@
+![anim](images/output.gif)
+
 Quickly recognizing the serial number of a pipeline is necessary for the smooth running of the construction site. It is useful in many construction phases. Recognition with a camera is a good compromise. The serial number is written directly on the pipe with a "metal writing". However, it is necessary that the writing and the picture taking are done rigorously.
 
 Design without sleeve: '+ SERIAL NUMBER +'.
